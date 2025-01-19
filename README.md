@@ -1,19 +1,38 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Typing SVG" /></a>
+<picture>
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: light)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Gambar sesuai tema" />
+</picture>
 </h3>
 <h1>About Me</h1>
 
 
 
-- 🌱 I’m currently learning **Python and SQL**
+<img align="right" width = "300px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
 
-- 📫 How to reach me **anieplana@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+
+🌱 I’m currently learning **Python and SQL**
+
+📫 How to reach me **anieplana@gmail.com**
+
+⚡ Fun fact **I am Batman**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div></div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_)
+
+
 
 <h2  align="center"> Languages & Tools I Have place My Hands On </h2>
 
@@ -38,22 +57,31 @@
 
 </div>
 
+
+  
+<h2 align="center"> 📊 GitHub Stats: </h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Quote">
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=inikanipp&theme=dark&hide_border=false">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
   
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=inikanipp&theme=dark&hide_border=false)
-</div>
-
-
-
-
-<div align="center">
-  
-<h2> 🔝 Top Contributed Repo &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; 🎵 I'm Listening To</h2>
+<h2> 🔝 Top Contributed Repo &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; ✍️ I'm Listening To</h2>
 
 <table>
   <tr>
