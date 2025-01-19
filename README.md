@@ -1,4 +1,11 @@
-![MasterHead](https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif)
+<header>
+  <picture>
+    <source srcset="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdnb.artstation.com/p/assets/images/images/083/746/991/large/zongle-chen-06.jpg?1736701869" media="(prefers-color-scheme: light)">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/083/746/991/large/zongle-chen-06.jpg?1736701869" alt="Gambar sesuai tema">
+  </picture>
+</header>
+
 <h3 align="center">
 <picture>
   <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=F72798&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: dark)" />
