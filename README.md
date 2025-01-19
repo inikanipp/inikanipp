@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif)
 <h3 align="center">
 <picture>
-  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=F72798&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: dark)" />
   <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: light)" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Gambar sesuai tema" />
 </picture>
@@ -61,23 +61,18 @@
 
   
 <h2 align="center"> 📊 GitHub Stats: </h2>
-
+<div align="center">
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Quote">
     </td>
     <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=inikanipp&theme=dark&hide_border=false">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
     </td>
   </tr>
 </table>
-
+</div>
 
 
 <div align="center">
