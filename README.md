@@ -1,8 +1,8 @@
 <header>
   <picture>
     <source srcset="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdnb.artstation.com/p/assets/images/images/083/746/991/large/zongle-chen-06.jpg?1736701869" media="(prefers-color-scheme: light)">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/083/746/991/large/zongle-chen-06.jpg?1736701869" alt="Gambar sesuai tema">
+    <source srcset="https://i.pinimg.com/originals/1b/12/57/1b1257486694588aaf30a878489aab97.gif" media="(prefers-color-scheme: light)">
+    <img src="https://i.pinimg.com/originals/1b/12/57/1b1257486694588aaf30a878489aab97.gif" alt="Gambar sesuai tema">
   </picture>
 </header>
 
